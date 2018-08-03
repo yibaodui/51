@@ -1,0 +1,28 @@
+
+T3578 000:718 SEGGER J-Link V4.86b Log File (0001ms, 0364ms total)
+T3578 000:718 DLL Compiled: Jun 27 2014 20:11:00 (0001ms, 0364ms total)
+T3578 000:718 Logging started @ 2018-03-04 21:53 (0002ms, 0365ms total)
+T3578 000:720 JLINK_SetWarnOutHandler(...) (0000ms, 0365ms total)
+T3578 000:720 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 25 2013 19:20:08
+Hardware: V8.00
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0277ms, 0642ms total)
+T3578 000:997 JLINK_SetErrorOutHandler(...) (0000ms, 0642ms total)
+T3578 000:997 JLINK_ExecCommand("ProjectFile = "C:\Users\ASUS\Desktop\KEA128\Projecct\MDK\JLinkSettings.ini"", ...)  returns 0x00 (0037ms, 0679ms total)
+T3578 001:036 JLINK_ExecCommand("Device = SKEAZ128xxx4", ...)Device "SKEAZ128XXX4" selected (128 KB flash, 16 KB RAM).  returns 0x00 (0003ms, 0682ms total)
+T3578 001:039 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0682ms total)
+T3578 001:039 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0682ms total)
+T3578 001:039 JLINK_GetDLLVersion()  returns 48602 (0000ms, 0682ms total)
+T3578 001:039 JLINK_GetFirmwareString(...) (0000ms, 0682ms total)
+T3578 001:044 JLINK_GetDLLVersion()  returns 48602 (0000ms, 0682ms total)
+T3578 001:044 JLINK_GetCompileDateTime() (0000ms, 0682ms total)
+T3578 001:045 JLINK_GetFirmwareString(...) (0000ms, 0682ms total)
+T3578 001:047 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0682ms total)
+T3578 001:064 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0683ms total)
+T3578 001:065 JLINK_SetSpeed(5000) (0000ms, 0683ms total)
+T3578 001:065 JLINK_GetId() >0x108 TIF> >0x108 TIF>
+  ***** Error: Supply voltage too low (1 Volt is required, Measured: 0.6 Volt).
+Please check target power.  returns 0x00000000 (0356ms, 1039ms total)
+T3578 004:572 JLINK_Close() (0001ms, 1040ms total)
+T3578 004:572  (0001ms, 1040ms total)
+T3578 004:572 Closed (0001ms, 1040ms total)

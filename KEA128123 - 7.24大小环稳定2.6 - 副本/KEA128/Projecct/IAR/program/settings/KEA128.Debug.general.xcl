@@ -1,0 +1,13 @@
+"E:\iar8.1\arm\bin\armproc.dll" 
+
+"E:\iar8.1\arm\bin\armjlink2.dll" 
+
+"C:\Users\ASUS\Desktop\KEA128123\KEA128\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin "E:\iar8.1\arm\bin\armbat.dll" 
+
+--device_macro "E:\iar8.1\arm\config\debugger\NXP\KExx.dmac" 
+
+
+
+
